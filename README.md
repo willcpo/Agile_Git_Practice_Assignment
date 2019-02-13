@@ -1,9 +1,9 @@
-#FreeCodeCamp
+# FreeCodeCamp
 
-##[Link to Homepage](https://www.freecodecamp.org)
-####[Interesting Articles](https://www.freecodecamp.org)
+## [Link to Homepage](https://www.freecodecamp.org)
+#### [Interesting Articles](https://www.freecodecamp.org)
 
-##Summary
+## Summary
 FreeCodeCamp is a **free** nonprofit that offers tutorials, certifications,
 communities and experience for those wanting to improve their coding skills
 
