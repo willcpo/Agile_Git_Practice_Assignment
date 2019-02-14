@@ -27,3 +27,9 @@ This website is important for a few **key** reasons:
 
 ## Sameer's comments
 This is a *great* resource! I think the community aspect in particular, can be so helpful to someone starting out on their journey to becoming a software engineer.
+
+## Ryans Cho's Comments
+
+I remember starting out with FreeCodeCamp back in High School!  Its definitely a great resource
+and shows that really anybody with access to a computer can learn how to code.  The community
+aspect is also super encouraging when you are first starting out.  
